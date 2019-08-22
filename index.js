@@ -2,5 +2,5 @@
 function logDriverNames(driver) {
   return driver.forEach(function (element) {
     console.log(element);
-  })
+  });
 }
